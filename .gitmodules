@@ -1,0 +1,3 @@
+[submodule "Edelweiss/vendor/spdlog"]
+	path = Edelweiss/vendor/spdlog
+	url = https://github.com/gabime/spdlog
