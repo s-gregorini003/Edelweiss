@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{5CC4FBDF-B302-4E5D-B5B5-D3A937AB4CD4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Edelweiss", "Edelweiss\Edelweiss.vcxproj", "{1285599B-53E1-4923-9E1B-A48A2890B11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1285599B-53E1-4923-9E1B-A48A2890B11B}.Debug|x64.ActiveCfg = Debug|x64
+		{1285599B-53E1-4923-9E1B-A48A2890B11B}.Debug|x64.Build.0 = Debug|x64
+		{1285599B-53E1-4923-9E1B-A48A2890B11B}.Release|x64.ActiveCfg = Release|x64
+		{1285599B-53E1-4923-9E1B-A48A2890B11B}.Release|x64.Build.0 = Release|x64
+		{5CC4FBDF-B302-4E5D-B5B5-D3A937AB4CD4}.Debug|x64.ActiveCfg = Debug|x64
+		{5CC4FBDF-B302-4E5D-B5B5-D3A937AB4CD4}.Debug|x64.Build.0 = Debug|x64
+		{5CC4FBDF-B302-4E5D-B5B5-D3A937AB4CD4}.Release|x64.ActiveCfg = Release|x64
+		{5CC4FBDF-B302-4E5D-B5B5-D3A937AB4CD4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4368519A-4FE2-44CD-BD44-7977D60727B5}
+	EndGlobalSection
+EndGlobal

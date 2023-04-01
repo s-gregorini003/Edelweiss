@@ -1,0 +1,7 @@
+# Directories
+.vs/
+Bin64/
+BinTemp/
+
+# Files
+*.user
